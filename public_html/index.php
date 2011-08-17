@@ -2,6 +2,7 @@
 echo 'setenv'. getenv ("CHRIS").'done dd';
 echo 'wooot';
 echo.'env'.print_r($_ENV);
-echo 'DDD';
+echo 'dsdsdsd';
+echo 'fin';
 
 ?>
