@@ -1,3 +1,3 @@
 <?php
-echo 'yay';
+echo 'setenv'. getenv ( $chris );
 ?>
