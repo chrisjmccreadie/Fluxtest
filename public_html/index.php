@@ -1,4 +1,4 @@
 <?php
 echo 'wooot';
-echo 'env'.print_r($_GET);
+echo 'env'.getenv('HTTP_X_FLX_TEST');
 ?>
