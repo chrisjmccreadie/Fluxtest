@@ -1,4 +1,4 @@
 <?php
-echo 'setenv'. apache_getenv ("CHRIS").'done dd';
+echo 'setenv'. getenv ("HTTP_X_FLX_CHRIS").'done dd';
 echo 'wooot';
 ?>
